@@ -2,4 +2,4 @@
 
 My first website - yay!
 
-**author:** Maya Van Liefferinge
+**Author:** Maya Van Liefferinge
